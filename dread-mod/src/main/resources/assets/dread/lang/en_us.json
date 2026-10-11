@@ -1,0 +1,12 @@
+{
+  "entity.dread.stalker": "Stalker",
+  "entity.dread.crawler": "Crawler",
+  "entity.dread.watcher": "Watcher",
+  "entity.dread.wailer": "Wailer",
+  "item.dread.stalker_spawn_egg": "Stalker Spawn Egg",
+  "item.dread.crawler_spawn_egg": "Crawler Spawn Egg",
+  "item.dread.watcher_spawn_egg": "Watcher Spawn Egg",
+  "item.dread.wailer_spawn_egg": "Wailer Spawn Egg",
+  "item.dread.dread_shard": "Dread Shard",
+  "item.dread.haunted_bell": "Haunted Bell"
+}

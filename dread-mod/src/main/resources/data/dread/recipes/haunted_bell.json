@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ", "SBS", " S "],
+  "key": {
+    "S": { "item": "dread:dread_shard" },
+    "B": { "item": "minecraft:bell" }
+  },
+  "result": { "item": "dread:haunted_bell" }
+}
